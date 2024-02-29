@@ -11,7 +11,7 @@ Inicia um novo repositório Git.
 git clone [URL]:
 Clona um repositório existente para o seu computador.
 git add [arquivo(s)]:
-Adiciona alterações ao stage para serem commitadas.
+Adiciona alterações ao stage(etapa) para serem commitadas.
 git commit -m "Mensagem do commit":
 Registra as alterações no repositório com uma mensagem associada.
 git status:
@@ -80,3 +80,8 @@ Links que podem ajudar
 3 medium.com
 4 github.com
 5 git-scm.com
+
+Próximos tópicos
+Exercícios de lógica de programação
+Conceito OOP e aplicação em projetos
+Estudos dos comandos básicos de SQL (create, delete, insert, update, select, alter)
